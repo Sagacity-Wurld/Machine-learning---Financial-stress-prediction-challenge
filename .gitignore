@@ -1,0 +1,8 @@
+.venv/
+.venvm/
+_pycache_/
+.ipynb_checkpoints/
+Train.csv
+Test.csv
+submission.csv
+data_dictionary.csv
